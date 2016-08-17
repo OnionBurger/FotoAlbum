@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\trans">
+      <UniqueIdentifier>{0447ba13-d9e9-4ce6-bef7-0f75ea44da57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\trans">
+      <UniqueIdentifier>{0c47abc9-a01b-41cb-a6e9-56f80d51cce3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureTransition.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="Standing.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="Sudden.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="WipeDown.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="NewsSpin.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockWheel.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="EllipsoidWrap.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="Bring.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+    <ClCompile Include="Cone.cpp">
+      <Filter>Source Files\trans</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureTransition.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="Standing.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="Sudden.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="WipeDown.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="NewsSpin.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="utility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockWheel.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="EllipsoidWrap.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="Bring.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+    <ClInclude Include="Cone.h">
+      <Filter>Header Files\trans</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -17,4 +17,4 @@
 *.RTF	 diff=astextplain
 
 # Linguist
-*.rb linguist-language=Cpp
+*.rb linguist-language=C++

@@ -1,0 +1,32 @@
+Controls
+-----
+
+QWEASD - rotate view
+R - reset rotation
+Z - jump to previous picture
+X/ENTER - jump to next picture
+C/SPACE - pause
+V - change projection type
+F - toggle fullscreen mode
+
+Config file
+-----
+
+Format:
+	path to folder with pictures
+	order of pictures shown: 0 (alphabetical) or 1 (random)
+	duration of a single picture
+	duration of transitions
+	list of allowed transitions
+		+transitionName to allow that transition for when picture is being shown
+		-transitionName to allow that transition for when pciture is being moved away
+
+Transition names:
+	sudden
+	wipe
+	fade
+	spin
+	clock
+	ellipsoid
+	bring
+	cone

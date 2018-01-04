@@ -1,4 +1,4 @@
-../slikePrimer
+pictures
 0
 5000
 1000
